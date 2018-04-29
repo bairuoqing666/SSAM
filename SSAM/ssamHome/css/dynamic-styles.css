@@ -1,0 +1,436 @@
+/* Pages */
+#guillaume-bouvet #navbar-header-toggle { background-color: #be935a; }
+#guillaume-bouvet #navbar-header-icon-loading::after { background-color: #be935a; }
+#page-content-guillaume-bouvet .layout-project-color { background-color: #be935a; }
+#page-content-guillaume-bouvet .project-name { color: #be935a; }
+.page-header-fullscreen-icon-guillaume-bouvet path,
+.page-header-fullscreen-icon-guillaume-bouvet polyline,
+.page-header-fullscreen-icon-guillaume-bouvet polygon,
+.page-header-fullscreen-icon-guillaume-bouvet rect,
+.page-header-fullscreen-icon-guillaume-bouvet line{ stroke: #be935a; }
+#page-content-guillaume-bouvet .fullscreenblock-play-btn { background-color: #be935a; }
+#page-content-guillaume-bouvet .fullscreenblock-play-btn::before,
+#page-content-guillaume-bouvet .fullscreenblock-play-btn::after{ border-color: #fff; }
+#champagne-philipponnat #navbar-header-toggle { background-color: #ac8c53; }
+#champagne-philipponnat #navbar-header-icon-loading::after { background-color: #ac8c53; }
+#page-content-champagne-philipponnat .layout-project-color { background-color: #ac8c53; }
+#page-content-champagne-philipponnat .project-name { color: #ac8c53; }
+.page-header-fullscreen-icon-champagne-philipponnat path,
+.page-header-fullscreen-icon-champagne-philipponnat polyline,
+.page-header-fullscreen-icon-champagne-philipponnat polygon,
+.page-header-fullscreen-icon-champagne-philipponnat rect,
+.page-header-fullscreen-icon-champagne-philipponnat line{ stroke: #ac8c53; }
+#page-content-champagne-philipponnat .fullscreenblock-play-btn { background-color: #ac8c53; }
+#page-content-champagne-philipponnat .fullscreenblock-play-btn::before,
+#page-content-champagne-philipponnat .fullscreenblock-play-btn::after{ border-color: #fff; }
+#mrassociates #navbar-header-toggle { background-color: #ff3242; }
+#mrassociates #navbar-header-icon-loading::after { background-color: #ff3242; }
+#page-content-mrassociates .layout-project-color { background-color: #ff3242; }
+#page-content-mrassociates .project-name { color: #ff3242; }
+.page-header-fullscreen-icon-mrassociates path,
+.page-header-fullscreen-icon-mrassociates polyline,
+.page-header-fullscreen-icon-mrassociates polygon,
+.page-header-fullscreen-icon-mrassociates rect,
+.page-header-fullscreen-icon-mrassociates line{ stroke: #ff3242; }
+#page-content-mrassociates .fullscreenblock-play-btn { background-color: #ff3242; }
+#page-content-mrassociates .fullscreenblock-play-btn::before,
+#page-content-mrassociates .fullscreenblock-play-btn::after{ border-color: #fff; }
+#quincy-requin-associes #navbar-header-toggle { background-color: #853175; }
+#quincy-requin-associes #navbar-header-icon-loading::after { background-color: #853175; }
+#page-content-quincy-requin-associes .layout-project-color { background-color: #853175; }
+#page-content-quincy-requin-associes .project-name { color: #853175; }
+.page-header-fullscreen-icon-quincy-requin-associes path,
+.page-header-fullscreen-icon-quincy-requin-associes polyline,
+.page-header-fullscreen-icon-quincy-requin-associes polygon,
+.page-header-fullscreen-icon-quincy-requin-associes rect,
+.page-header-fullscreen-icon-quincy-requin-associes line{ stroke: #853175; }
+#page-content-quincy-requin-associes .fullscreenblock-play-btn { background-color: #853175; }
+#page-content-quincy-requin-associes .fullscreenblock-play-btn::before,
+#page-content-quincy-requin-associes .fullscreenblock-play-btn::after{ border-color: #fff; }
+#joseph-a-avoue #navbar-header-toggle { background-color: #fc91a2; }
+#joseph-a-avoue #navbar-header-icon-loading::after { background-color: #fc91a2; }
+#page-content-joseph-a-avoue .layout-project-color { background-color: #fc91a2; }
+#page-content-joseph-a-avoue .project-name { color: #fc91a2; }
+.page-header-fullscreen-icon-joseph-a-avoue path,
+.page-header-fullscreen-icon-joseph-a-avoue polyline,
+.page-header-fullscreen-icon-joseph-a-avoue polygon,
+.page-header-fullscreen-icon-joseph-a-avoue rect,
+.page-header-fullscreen-icon-joseph-a-avoue line{ stroke: #fc91a2; }
+#page-content-joseph-a-avoue .fullscreenblock-play-btn { background-color: #fc91a2; }
+#page-content-joseph-a-avoue .fullscreenblock-play-btn::before,
+#page-content-joseph-a-avoue .fullscreenblock-play-btn::after{ border-color: #fff; }
+#nesso-architecture #navbar-header-toggle { background-color: #da2f35; }
+#nesso-architecture #navbar-header-icon-loading::after { background-color: #da2f35; }
+#page-content-nesso-architecture .layout-project-color { background-color: #da2f35; }
+#page-content-nesso-architecture .project-name { color: #da2f35; }
+.page-header-fullscreen-icon-nesso-architecture path,
+.page-header-fullscreen-icon-nesso-architecture polyline,
+.page-header-fullscreen-icon-nesso-architecture polygon,
+.page-header-fullscreen-icon-nesso-architecture rect,
+.page-header-fullscreen-icon-nesso-architecture line{ stroke: #da2f35; }
+#page-content-nesso-architecture .fullscreenblock-play-btn { background-color: #da2f35; }
+#page-content-nesso-architecture .fullscreenblock-play-btn::before,
+#page-content-nesso-architecture .fullscreenblock-play-btn::after{ border-color: #fff; }
+#lotie #navbar-header-toggle { background-color: #111111; }
+#lotie #navbar-header-icon-loading::after { background-color: #111111; }
+#page-content-lotie .layout-project-color { background-color: #111111; }
+#page-content-lotie .project-name { color: #111111; }
+.page-header-fullscreen-icon-lotie path,
+.page-header-fullscreen-icon-lotie polyline,
+.page-header-fullscreen-icon-lotie polygon,
+.page-header-fullscreen-icon-lotie rect,
+.page-header-fullscreen-icon-lotie line{ stroke: #111111; }
+#page-content-lotie .fullscreenblock-play-btn { background-color: #111111; }
+#page-content-lotie .fullscreenblock-play-btn::before,
+#page-content-lotie .fullscreenblock-play-btn::after{ border-color: #fff; }
+#arald #navbar-header-toggle { background-color: #45a38e; }
+#arald #navbar-header-icon-loading::after { background-color: #45a38e; }
+#page-content-arald .layout-project-color { background-color: #45a38e; }
+#page-content-arald .project-name { color: #45a38e; }
+.page-header-fullscreen-icon-arald path,
+.page-header-fullscreen-icon-arald polyline,
+.page-header-fullscreen-icon-arald polygon,
+.page-header-fullscreen-icon-arald rect,
+.page-header-fullscreen-icon-arald line{ stroke: #45a38e; }
+#page-content-arald .fullscreenblock-play-btn { background-color: #45a38e; }
+#page-content-arald .fullscreenblock-play-btn::before,
+#page-content-arald .fullscreenblock-play-btn::after{ border-color: #fff; }
+#troisieme-oeil-productions #navbar-header-toggle { background-color: #e88081; }
+#troisieme-oeil-productions #navbar-header-icon-loading::after { background-color: #e88081; }
+#page-content-troisieme-oeil-productions .layout-project-color { background-color: #e88081; }
+#page-content-troisieme-oeil-productions .project-name { color: #e88081; }
+.page-header-fullscreen-icon-troisieme-oeil-productions path,
+.page-header-fullscreen-icon-troisieme-oeil-productions polyline,
+.page-header-fullscreen-icon-troisieme-oeil-productions polygon,
+.page-header-fullscreen-icon-troisieme-oeil-productions rect,
+.page-header-fullscreen-icon-troisieme-oeil-productions line{ stroke: #e88081; }
+#page-content-troisieme-oeil-productions .fullscreenblock-play-btn { background-color: #e88081; }
+#page-content-troisieme-oeil-productions .fullscreenblock-play-btn::before,
+#page-content-troisieme-oeil-productions .fullscreenblock-play-btn::after{ border-color: #fff; }
+#impressario #navbar-header-toggle { background-color: #34ae8b; }
+#impressario #navbar-header-icon-loading::after { background-color: #34ae8b; }
+#page-content-impressario .layout-project-color { background-color: #34ae8b; }
+#page-content-impressario .project-name { color: #34ae8b; }
+.page-header-fullscreen-icon-impressario path,
+.page-header-fullscreen-icon-impressario polyline,
+.page-header-fullscreen-icon-impressario polygon,
+.page-header-fullscreen-icon-impressario rect,
+.page-header-fullscreen-icon-impressario line{ stroke: #34ae8b; }
+#page-content-impressario .fullscreenblock-play-btn { background-color: #34ae8b; }
+#page-content-impressario .fullscreenblock-play-btn::before,
+#page-content-impressario .fullscreenblock-play-btn::after{ border-color: #fff; }
+#septembre-productions #navbar-header-toggle { background-color: #e74859; }
+#septembre-productions #navbar-header-icon-loading::after { background-color: #e74859; }
+#page-content-septembre-productions .layout-project-color { background-color: #e74859; }
+#page-content-septembre-productions .project-name { color: #e74859; }
+.page-header-fullscreen-icon-septembre-productions path,
+.page-header-fullscreen-icon-septembre-productions polyline,
+.page-header-fullscreen-icon-septembre-productions polygon,
+.page-header-fullscreen-icon-septembre-productions rect,
+.page-header-fullscreen-icon-septembre-productions line{ stroke: #e74859; }
+#page-content-septembre-productions .fullscreenblock-play-btn { background-color: #e74859; }
+#page-content-septembre-productions .fullscreenblock-play-btn::before,
+#page-content-septembre-productions .fullscreenblock-play-btn::after{ border-color: #fff; }
+#mademoiselle-dimanche #navbar-header-toggle { background-color: #7fd0af; }
+#mademoiselle-dimanche #navbar-header-icon-loading::after { background-color: #7fd0af; }
+#page-content-mademoiselle-dimanche .layout-project-color { background-color: #7fd0af; }
+#page-content-mademoiselle-dimanche .project-name { color: #7fd0af; }
+.page-header-fullscreen-icon-mademoiselle-dimanche path,
+.page-header-fullscreen-icon-mademoiselle-dimanche polyline,
+.page-header-fullscreen-icon-mademoiselle-dimanche polygon,
+.page-header-fullscreen-icon-mademoiselle-dimanche rect,
+.page-header-fullscreen-icon-mademoiselle-dimanche line{ stroke: #7fd0af; }
+#page-content-mademoiselle-dimanche .fullscreenblock-play-btn { background-color: #7fd0af; }
+#page-content-mademoiselle-dimanche .fullscreenblock-play-btn::before,
+#page-content-mademoiselle-dimanche .fullscreenblock-play-btn::after{ border-color: #fff; }
+#nonpareille #navbar-header-toggle { background-color: #f94f4f; }
+#nonpareille #navbar-header-icon-loading::after { background-color: #f94f4f; }
+#page-content-nonpareille .layout-project-color { background-color: #f94f4f; }
+#page-content-nonpareille .project-name { color: #f94f4f; }
+.page-header-fullscreen-icon-nonpareille path,
+.page-header-fullscreen-icon-nonpareille polyline,
+.page-header-fullscreen-icon-nonpareille polygon,
+.page-header-fullscreen-icon-nonpareille rect,
+.page-header-fullscreen-icon-nonpareille line{ stroke: #f94f4f; }
+#page-content-nonpareille .fullscreenblock-play-btn { background-color: #f94f4f; }
+#page-content-nonpareille .fullscreenblock-play-btn::before,
+#page-content-nonpareille .fullscreenblock-play-btn::after{ border-color: #fff; }
+#elephant-groupe #navbar-header-toggle { background-color: #00a9c4; }
+#elephant-groupe #navbar-header-icon-loading::after { background-color: #00a9c4; }
+#page-content-elephant-groupe .layout-project-color { background-color: #00a9c4; }
+#page-content-elephant-groupe .project-name { color: #00a9c4; }
+.page-header-fullscreen-icon-elephant-groupe path,
+.page-header-fullscreen-icon-elephant-groupe polyline,
+.page-header-fullscreen-icon-elephant-groupe polygon,
+.page-header-fullscreen-icon-elephant-groupe rect,
+.page-header-fullscreen-icon-elephant-groupe line{ stroke: #00a9c4; }
+#page-content-elephant-groupe .fullscreenblock-play-btn { background-color: #00a9c4; }
+#page-content-elephant-groupe .fullscreenblock-play-btn::before,
+#page-content-elephant-groupe .fullscreenblock-play-btn::after{ border-color: #fff; }
+#paris-the-movie #navbar-header-toggle { background-color: #f01843; }
+#paris-the-movie #navbar-header-icon-loading::after { background-color: #f01843; }
+#page-content-paris-the-movie .layout-project-color { background-color: #f01843; }
+#page-content-paris-the-movie .project-name { color: #f01843; }
+.page-header-fullscreen-icon-paris-the-movie path,
+.page-header-fullscreen-icon-paris-the-movie polyline,
+.page-header-fullscreen-icon-paris-the-movie polygon,
+.page-header-fullscreen-icon-paris-the-movie rect,
+.page-header-fullscreen-icon-paris-the-movie line{ stroke: #f01843; }
+#page-content-paris-the-movie .fullscreenblock-play-btn { background-color: #f01843; }
+#page-content-paris-the-movie .fullscreenblock-play-btn::before,
+#page-content-paris-the-movie .fullscreenblock-play-btn::after{ border-color: #fff; }
+#laurent-perez-del-mar #navbar-header-toggle { background-color: #141414; }
+#laurent-perez-del-mar #navbar-header-icon-loading::after { background-color: #141414; }
+#page-content-laurent-perez-del-mar .layout-project-color { background-color: #141414; }
+#page-content-laurent-perez-del-mar .project-name { color: #141414; }
+.page-header-fullscreen-icon-laurent-perez-del-mar path,
+.page-header-fullscreen-icon-laurent-perez-del-mar polyline,
+.page-header-fullscreen-icon-laurent-perez-del-mar polygon,
+.page-header-fullscreen-icon-laurent-perez-del-mar rect,
+.page-header-fullscreen-icon-laurent-perez-del-mar line{ stroke: #141414; }
+#page-content-laurent-perez-del-mar .fullscreenblock-play-btn { background-color: #141414; }
+#page-content-laurent-perez-del-mar .fullscreenblock-play-btn::before,
+#page-content-laurent-perez-del-mar .fullscreenblock-play-btn::after{ border-color: #fff; }
+#jean-florian-leroy #navbar-header-toggle { background-color: #4a4947; }
+#jean-florian-leroy #navbar-header-icon-loading::after { background-color: #4a4947; }
+#page-content-jean-florian-leroy .layout-project-color { background-color: #4a4947; }
+#page-content-jean-florian-leroy .project-name { color: #4a4947; }
+.page-header-fullscreen-icon-jean-florian-leroy path,
+.page-header-fullscreen-icon-jean-florian-leroy polyline,
+.page-header-fullscreen-icon-jean-florian-leroy polygon,
+.page-header-fullscreen-icon-jean-florian-leroy rect,
+.page-header-fullscreen-icon-jean-florian-leroy line{ stroke: #4a4947; }
+#page-content-jean-florian-leroy .fullscreenblock-play-btn { background-color: #4a4947; }
+#page-content-jean-florian-leroy .fullscreenblock-play-btn::before,
+#page-content-jean-florian-leroy .fullscreenblock-play-btn::after{ border-color: #fff; }
+#swm-exteriors #navbar-header-toggle { background-color: #52b252; }
+#swm-exteriors #navbar-header-icon-loading::after { background-color: #52b252; }
+#page-content-swm-exteriors .layout-project-color { background-color: #52b252; }
+#page-content-swm-exteriors .project-name { color: #52b252; }
+.page-header-fullscreen-icon-swm-exteriors path,
+.page-header-fullscreen-icon-swm-exteriors polyline,
+.page-header-fullscreen-icon-swm-exteriors polygon,
+.page-header-fullscreen-icon-swm-exteriors rect,
+.page-header-fullscreen-icon-swm-exteriors line{ stroke: #52b252; }
+#page-content-swm-exteriors .fullscreenblock-play-btn { background-color: #52b252; }
+#page-content-swm-exteriors .fullscreenblock-play-btn::before,
+#page-content-swm-exteriors .fullscreenblock-play-btn::after{ border-color: #fff; }
+#chateau-minuty #navbar-header-toggle { background-color: #ffadac; }
+#chateau-minuty #navbar-header-icon-loading::after { background-color: #ffadac; }
+#page-content-chateau-minuty .layout-project-color { background-color: #ffadac; }
+#page-content-chateau-minuty .project-name { color: #ffadac; }
+.page-header-fullscreen-icon-chateau-minuty path,
+.page-header-fullscreen-icon-chateau-minuty polyline,
+.page-header-fullscreen-icon-chateau-minuty polygon,
+.page-header-fullscreen-icon-chateau-minuty rect,
+.page-header-fullscreen-icon-chateau-minuty line{ stroke: #ffadac; }
+#page-content-chateau-minuty .fullscreenblock-play-btn { background-color: #ffadac; }
+#page-content-chateau-minuty .fullscreenblock-play-btn::before,
+#page-content-chateau-minuty .fullscreenblock-play-btn::after{ border-color: #fff; }
+#auditorium-de-lyon #navbar-header-toggle { background-color: #0bb3bd; }
+#auditorium-de-lyon #navbar-header-icon-loading::after { background-color: #0bb3bd; }
+#page-content-auditorium-de-lyon .layout-project-color { background-color: #0bb3bd; }
+#page-content-auditorium-de-lyon .project-name { color: #0bb3bd; }
+.page-header-fullscreen-icon-auditorium-de-lyon path,
+.page-header-fullscreen-icon-auditorium-de-lyon polyline,
+.page-header-fullscreen-icon-auditorium-de-lyon polygon,
+.page-header-fullscreen-icon-auditorium-de-lyon rect,
+.page-header-fullscreen-icon-auditorium-de-lyon line{ stroke: #0bb3bd; }
+#page-content-auditorium-de-lyon .fullscreenblock-play-btn { background-color: #0bb3bd; }
+#page-content-auditorium-de-lyon .fullscreenblock-play-btn::before,
+#page-content-auditorium-de-lyon .fullscreenblock-play-btn::after{ border-color: #fff; }
+#institut-franco-chinois #navbar-header-toggle { background-color: #e63f47; }
+#institut-franco-chinois #navbar-header-icon-loading::after { background-color: #e63f47; }
+#page-content-institut-franco-chinois .layout-project-color { background-color: #e63f47; }
+#page-content-institut-franco-chinois .project-name { color: #e63f47; }
+.page-header-fullscreen-icon-institut-franco-chinois path,
+.page-header-fullscreen-icon-institut-franco-chinois polyline,
+.page-header-fullscreen-icon-institut-franco-chinois polygon,
+.page-header-fullscreen-icon-institut-franco-chinois rect,
+.page-header-fullscreen-icon-institut-franco-chinois line{ stroke: #e63f47; }
+#page-content-institut-franco-chinois .fullscreenblock-play-btn { background-color: #e63f47; }
+#page-content-institut-franco-chinois .fullscreenblock-play-btn::before,
+#page-content-institut-franco-chinois .fullscreenblock-play-btn::after{ border-color: #fff; }
+#epfl-alumni #navbar-header-toggle { background-color: #33ccff; }
+#epfl-alumni #navbar-header-icon-loading::after { background-color: #33ccff; }
+#page-content-epfl-alumni .layout-project-color { background-color: #33ccff; }
+#page-content-epfl-alumni .project-name { color: #33ccff; }
+.page-header-fullscreen-icon-epfl-alumni path,
+.page-header-fullscreen-icon-epfl-alumni polyline,
+.page-header-fullscreen-icon-epfl-alumni polygon,
+.page-header-fullscreen-icon-epfl-alumni rect,
+.page-header-fullscreen-icon-epfl-alumni line{ stroke: #33ccff; }
+#page-content-epfl-alumni .fullscreenblock-play-btn { background-color: #33ccff; }
+#page-content-epfl-alumni .fullscreenblock-play-btn::before,
+#page-content-epfl-alumni .fullscreenblock-play-btn::after{ border-color: #fff; }
+#alchimie-digitale-creative #navbar-header-toggle { background-color: #00bf81; }
+#alchimie-digitale-creative #navbar-header-icon-loading::after { background-color: #00bf81; }
+#page-content-alchimie-digitale-creative .layout-project-color { background-color: #00bf81; }
+#page-content-alchimie-digitale-creative .project-name { color: #00bf81; }
+.page-header-fullscreen-icon-alchimie-digitale-creative path,
+.page-header-fullscreen-icon-alchimie-digitale-creative polyline,
+.page-header-fullscreen-icon-alchimie-digitale-creative polygon,
+.page-header-fullscreen-icon-alchimie-digitale-creative rect,
+.page-header-fullscreen-icon-alchimie-digitale-creative line{ stroke: #00bf81; }
+#page-content-alchimie-digitale-creative .fullscreenblock-play-btn { background-color: #00bf81; }
+#page-content-alchimie-digitale-creative .fullscreenblock-play-btn::before,
+#page-content-alchimie-digitale-creative .fullscreenblock-play-btn::after{ border-color: #fff; }
+
+/* Loading */
+#loading-image::after{ background-image: url(../img/home_bigposter01_mini_nb.jpg); }
+
+/* Text blocks */
+#block-esprit-creatif { background-color:#3c3c3b; }
+#block-esprit-creatif .textblock-texture { background-color:#3c3c3b; }
+#block-dialogue-et-alchimie { background-color:#00bf81; }
+#block-dialogue-et-alchimie .textblock-texture { background-color:#00bf81; }
+#block-l-experience-utilisateur-avant-tout { background-color:#00bf81; }
+#block-l-experience-utilisateur-avant-tout .textblock-texture { background-color:#00bf81; }
+#block-privilegier-l-ergonomie { background-color:#454545; }
+#block-privilegier-l-ergonomie .textblock-texture { background-color:#454545; }
+#block-bureau { background-color:#ffffff; }
+#block-bureau .textblock-texture { background-color:#ffffff; }
+#block-des-couleurs-identifiables { background-color:#da2f35; }
+#block-des-couleurs-identifiables .textblock-texture { background-color:#da2f35; }
+#block-une-grille-structurante { background-color:#3c3c3b; }
+#block-une-grille-structurante .textblock-texture { background-color:#3c3c3b; }
+#block-filtres-et-navigation { background-color:#81cef4; }
+#block-filtres-et-navigation .textblock-texture { background-color:#81cef4; }
+#block-couleurs-et-decorations { background-color:#45b079; }
+#block-couleurs-et-decorations .textblock-texture { background-color:#45b079; }
+#block-ligne-et-equilibre { background-color:#3c3c3b; }
+#block-ligne-et-equilibre .textblock-texture { background-color:#3c3c3b; }
+#block-ligne-editoriale { background-color:#ffffff; }
+#block-ligne-editoriale .textblock-texture { background-color:#ffffff; }
+#block-une-typographie-singuliere { background-color:#45a38e; }
+#block-une-typographie-singuliere .textblock-texture { background-color:#45a38e; }
+#block-mouvement-circulaires { background-color:#e74859; }
+#block-mouvement-circulaires .textblock-texture { background-color:#e74859; }
+#block-mouvements-circulaires { background-color:#121c25; }
+#block-mouvements-circulaires .textblock-texture { background-color:#121c25; }
+#block-palette-de-couleurs { background-color:#b0a297; }
+#block-palette-de-couleurs .textblock-texture { background-color:#b0a297; }
+#block-un-graphisme-minimal { background-color:#ffffff; }
+#block-un-graphisme-minimal .textblock-texture { background-color:#ffffff; }
+#block-un-menu-evolutif { background-color:#ffffff; }
+#block-un-menu-evolutif .textblock-texture { background-color:#ffffff; }
+#block-cadrer-l-aleatoire { background-color:#ffffff; }
+#block-cadrer-l-aleatoire .textblock-texture { background-color:#ffffff; }
+#block-evolution-du-logotype { background-color:#ffffff; }
+#block-evolution-du-logotype .textblock-texture { background-color:#ffffff; }
+#block-une-identite-vivante { background-color:#94d1b5; }
+#block-une-identite-vivante .textblock-texture { background-color:#94d1b5; }
+#block-front-dev-alternance { background-color:#0b1447; }
+#block-front-dev-alternance .textblock-texture { background-color:#0b1447; }
+#block-open-source { background-color:#ffffff; }
+#block-open-source .textblock-texture { background-color:#ffffff; }
+#block-couleurs { background-color:#1b2060; }
+#block-couleurs .textblock-texture { background-color:#1b2060; }
+#block-une-culture-commune { background-color:#ffffff; }
+#block-une-culture-commune .textblock-texture { background-color:#ffffff; }
+#block-des-competences-transversales { background-color:#383838; }
+#block-des-competences-transversales .textblock-texture { background-color:#383838; }
+#block-navigation-en-bandes { background-color:#2da549; }
+#block-navigation-en-bandes .textblock-texture { background-color:#2da549; }
+#block-photographies-et-galeries { background-color:#ffffff; }
+#block-photographies-et-galeries .textblock-texture { background-color:#ffffff; }
+
+/* Case studies blocks */
+
+/*  Fullscreen blocks */
+#block-philipponnat-fullscreen-block-01 {
+    background-color: #292929 !important;
+}
+#block-gb-fullscreen-block-02 {
+    background-color: #242424 !important;
+}
+#block-arald-fullscreen-block-01 {
+    background-color: #f5f5f5 !important;
+}
+#block-3eoeil-mockup-01 {
+    background-color: #f2f2f2 !important;
+}
+#block-mademoiselle-fullscreen-block-03 {
+    background-color: #7fd0af !important;
+}
+#block-paris-le-film-fullscreen-block-03 {
+    background-color: #121212 !important;
+}
+#block-joseph-fullscreen-block-01 {
+    background-color: #141e28 !important;
+}
+#block-joseph-fullscreen-block-01-566f15192acb6 {
+    background-color: #f5e4e6 !important;
+}
+#block-gb-fullscreen-block-03 {
+    background-color: #bdbdbd !important;
+}
+#block-gb-fullscreen-block-04 {
+    background-color: #242424 !important;
+}
+#block-gb-fullscreen-block-05 {
+    background-color: #242424 !important;
+}
+#block-joseph-fullscreen-block-03 {
+    background-color: #f5e4e6 !important;
+}
+#block-joseph-fullscreen-block-05 {
+    background-color: #141e28 !important;
+}
+#block-arald-fullscreen-block-02 {
+    background-color: #3d3d3d !important;
+}
+#block-arald-fullscreen-block-04 {
+    background-color: #454545 !important;
+}
+#block-qr-fullscreen-block-01 {
+    background-color: #3b3a47 !important;
+}
+#block-qr-fullscreen-block-03 {
+    background-color: #3b3a47 !important;
+}
+#block-fullscreen-block-56b1ecad5571b {
+    background-color: #565656 !important;
+}
+#block-fullscreen-block-02 {
+    background-color: #565656 !important;
+}
+#block-lotiefullscreen-block-02 {
+    background-color: #1f1f1f !important;
+}
+#block-fullscreen-block-56c2004c19bdd {
+    background-color: #333333 !important;
+}
+#block-awwwards {
+    background-color: #ffffff !important;
+}
+#block-minuty-fullscreen-block-03 {
+    background-color: #f5f5f5 !important;
+}
+#block-philipponnat-fullscreen-block-02 {
+    background-color: #292929 !important;
+}
+#block-fullscreen-block-56cc3f749582d {
+    background-color: #ebebeb !important;
+}
+#block-mademoiselle-fullscreen-block-04 {
+    background-color: #ffffff !important;
+}
+#block-fullscreen-block-56cc65944b795 {
+    background-color: #f2f2f2 !important;
+}
+#block-fullscreen-block-56cc761f14435 {
+    background-color: #f0f0f0 !important;
+}
+#block-fullscreen-block-56cc7ab91e45d {
+    background-color: #f6f6f6 !important;
+}
+#block-gourmantour-fullscreen-block-01 {
+    background-color: #18121c !important;
+}
+#block-gourmantour-fullscreen-block-02 {
+    background-color: #18121c !important;
+}
+#block-fullscreen-block-575986785f439 {
+    background-color: #ffffff !important;
+}
